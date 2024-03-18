@@ -5,11 +5,11 @@
 Empowering farmers with tailored insights, our project uses state, district, year, crop, and soil data for precise recommendations on optimal crop selection and accurate yield predictions based on geographical factors
 
 ## What did we use:
-PowerBI
-Image classification
-Rcommendation system
-Machine Learning-Regression
-Streamlit APP 
+-PowerBI
+-Image classification
+-Rcommendation system
+-Machine Learning-Regression
+-Streamlit APP 
 
 
 ## Final Presentation 
