@@ -6,10 +6,12 @@ Empowering farmers with tailored insights, our project uses state, district, yea
 
 ## What did we use:
 -PowerBI
-
 -Image classification
+
 -Rcommendation system
+
 -Machine Learning-Regression
+
 -Streamlit APP 
 
 
